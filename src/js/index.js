@@ -1,7 +1,7 @@
 //23d89290bf0ce90b4ee3f4eff7c2379a
 
 import {Search} from './models/Search';
-import {Recipe} from './models/Recipe';
+//import {Recipe} from './models/Recipe';
 import * as searchView from './views/searchView';
 import * as recipeView from './views/recipeView';
 import {elements} from './views/base';
